@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/static/js/main.20d2f4b0.chunk.js",
+    "main.js.map": "/static/js/main.20d2f4b0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9682c695.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9682c695.js.map",
+    "static/js/2.7bdfebf6.chunk.js": "/static/js/2.7bdfebf6.chunk.js",
+    "static/js/2.7bdfebf6.chunk.js.map": "/static/js/2.7bdfebf6.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.7bdfebf6.chunk.js.LICENSE.txt": "/static/js/2.7bdfebf6.chunk.js.LICENSE.txt",
+    "static/media/cheesy.2909a64c.png": "/static/media/cheesy.2909a64c.png",
+    "static/media/garden.c3596d2d.jpg": "/static/media/garden.c3596d2d.jpg",
+    "static/media/grilled.524a0ef2.jpg": "/static/media/grilled.524a0ef2.jpg",
+    "static/media/meaty.6a5b4c7a.png": "/static/media/meaty.6a5b4c7a.png",
+    "static/media/pizza-bg2.0f828e95.jpg": "/static/media/pizza-bg2.0f828e95.jpg",
+    "static/media/pork.b5c1d6fe.jpg": "/static/media/pork.b5c1d6fe.jpg",
+    "static/media/veggie.13a6f42b.jpg": "/static/media/veggie.13a6f42b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9682c695.js",
+    "static/js/2.7bdfebf6.chunk.js",
+    "static/js/main.20d2f4b0.chunk.js"
+  ]
+}
