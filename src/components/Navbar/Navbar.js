@@ -2,6 +2,8 @@ import {
   Bars,
   Nav,
   NavbarContainer,
+  NavButton,
+  NavButtonWrap,
   NavIcon,
   NavItem,
   NavLink,
@@ -13,6 +15,10 @@ const Navbar = ({ toggle }) => {
   const toggleHome = () => {
     window.scroll(0, 0);
   };
+  const handleClick = () => {
+    alert('Contact: (402) 373-8189');
+  };
+
   return (
     <>
       <Nav>
@@ -47,6 +53,11 @@ const Navbar = ({ toggle }) => {
               >
                 Sandwiches
               </NavLink>
+            </NavItem>
+            <NavItem>
+              <NavButtonWrap>
+                <NavButton onClick={handleClick}>Call to order</NavButton>
+              </NavButtonWrap>
             </NavItem>
           </NavMenu>
         </NavbarContainer>

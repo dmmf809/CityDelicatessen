@@ -50,6 +50,7 @@ export const NavLink = styled(Link)`
   height: 100%;
   cursor: pointer;
   font-size: 1rem;
+  font-family: 'Roboto', sans-serif;
 
   &:hover {
     color: #e31837;
@@ -91,6 +92,29 @@ export const NavMenu = styled.ul`
 
   @media screen and (max-width: 760px) {
     display: none;
+  }
+`;
+
+export const NavButtonWrap = styled.div`
+  padding-top: 15px;
+`;
+
+export const NavButton = styled.button`
+  background: #e31837;
+  padding: 13px 10px;
+  color: #ffff;
+  font-size: 16px;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  text-decoration: none;
+  transition: 0.2s ease-in-out;
+  font-family: 'Roboto', sans-serif;
+
+  &:hover {
+    transition: 0.2s ease-in-out;
+    background: #ffc500;
+    color: #010606;
   }
 `;
 
