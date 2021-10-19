@@ -55,6 +55,7 @@ export const SidebarLink = styled(LinkScroll)`
   color: #000;
   cursor: pointer;
   text-decoration: none;
+  font-family: 'Roboto', sans-serif;
 
   &:hover {
     color: #e31837;
