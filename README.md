@@ -7,3 +7,5 @@ Craving for pizza? This React based landing page makes the user crave for pizza 
 <img src='./images/restaurant.png'/>
 
 ## Deployment
+
+https://dmmf809.github.io/react-pizza-place
