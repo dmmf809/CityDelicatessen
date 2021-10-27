@@ -1,3 +1,4 @@
+import Footer from '../Footer/Footer';
 import {
   ProductCard,
   ProductDesc,
@@ -29,6 +30,7 @@ const Sandwich = ({ data, heading }) => {
           })}
         </ProductWrapper>
       </SandwichContainer>
+      <Footer />
     </>
   );
 };
