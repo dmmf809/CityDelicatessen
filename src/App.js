@@ -10,7 +10,7 @@ function App() {
   return (
     <>
       <GlobalStyles />
-      <Router basename='/react-pizza-place'>
+      <Router basename='/CityDelicatessen'>
         <Switch>
           <Route path='/' exact component={Main} />
           <Route path='/menu' component={Pizza}>
