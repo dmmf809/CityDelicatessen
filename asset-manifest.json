@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.js": "/react-pizza-place/static/js/main.81271a6d.chunk.js",
-    "main.js.map": "/react-pizza-place/static/js/main.81271a6d.chunk.js.map",
-    "runtime-main.js": "/react-pizza-place/static/js/runtime-main.2bd5ad3e.js",
-    "runtime-main.js.map": "/react-pizza-place/static/js/runtime-main.2bd5ad3e.js.map",
-    "static/js/2.5cec50c4.chunk.js": "/react-pizza-place/static/js/2.5cec50c4.chunk.js",
-    "static/js/2.5cec50c4.chunk.js.map": "/react-pizza-place/static/js/2.5cec50c4.chunk.js.map",
-    "index.html": "/react-pizza-place/index.html",
-    "static/js/2.5cec50c4.chunk.js.LICENSE.txt": "/react-pizza-place/static/js/2.5cec50c4.chunk.js.LICENSE.txt",
-    "static/media/cheesy.2909a64c.png": "/react-pizza-place/static/media/cheesy.2909a64c.png",
-    "static/media/garden.c3596d2d.jpg": "/react-pizza-place/static/media/garden.c3596d2d.jpg",
-    "static/media/grilled.524a0ef2.jpg": "/react-pizza-place/static/media/grilled.524a0ef2.jpg",
-    "static/media/meaty.6a5b4c7a.png": "/react-pizza-place/static/media/meaty.6a5b4c7a.png",
-    "static/media/pizza-bg2.0f828e95.jpg": "/react-pizza-place/static/media/pizza-bg2.0f828e95.jpg",
-    "static/media/pork.b5c1d6fe.jpg": "/react-pizza-place/static/media/pork.b5c1d6fe.jpg",
-    "static/media/veggie.13a6f42b.jpg": "/react-pizza-place/static/media/veggie.13a6f42b.jpg"
+    "main.js": "/CityDelicatessen/static/js/main.c0ab7a7f.chunk.js",
+    "main.js.map": "/CityDelicatessen/static/js/main.c0ab7a7f.chunk.js.map",
+    "runtime-main.js": "/CityDelicatessen/static/js/runtime-main.e1f6204f.js",
+    "runtime-main.js.map": "/CityDelicatessen/static/js/runtime-main.e1f6204f.js.map",
+    "static/js/2.d91762b5.chunk.js": "/CityDelicatessen/static/js/2.d91762b5.chunk.js",
+    "static/js/2.d91762b5.chunk.js.map": "/CityDelicatessen/static/js/2.d91762b5.chunk.js.map",
+    "index.html": "/CityDelicatessen/index.html",
+    "static/js/2.d91762b5.chunk.js.LICENSE.txt": "/CityDelicatessen/static/js/2.d91762b5.chunk.js.LICENSE.txt",
+    "static/media/cheesy.2909a64c.png": "/CityDelicatessen/static/media/cheesy.2909a64c.png",
+    "static/media/garden.c3596d2d.jpg": "/CityDelicatessen/static/media/garden.c3596d2d.jpg",
+    "static/media/grilled.524a0ef2.jpg": "/CityDelicatessen/static/media/grilled.524a0ef2.jpg",
+    "static/media/meaty.6a5b4c7a.png": "/CityDelicatessen/static/media/meaty.6a5b4c7a.png",
+    "static/media/pizza-bg2.0f828e95.jpg": "/CityDelicatessen/static/media/pizza-bg2.0f828e95.jpg",
+    "static/media/pork.b5c1d6fe.jpg": "/CityDelicatessen/static/media/pork.b5c1d6fe.jpg",
+    "static/media/veggie.13a6f42b.jpg": "/CityDelicatessen/static/media/veggie.13a6f42b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2bd5ad3e.js",
-    "static/js/2.5cec50c4.chunk.js",
-    "static/js/main.81271a6d.chunk.js"
+    "static/js/runtime-main.e1f6204f.js",
+    "static/js/2.d91762b5.chunk.js",
+    "static/js/main.c0ab7a7f.chunk.js"
   ]
 }
