@@ -8,4 +8,4 @@ Craving for pizza? This React based landing page makes the user crave for pizza 
 
 ## Deployment
 
-https://dmmf809.github.io/react-pizza-place
+https://dmmf809.github.io/CityDelicatessen
