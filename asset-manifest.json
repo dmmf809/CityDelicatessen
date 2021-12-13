@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/CityDelicatessen/static/js/main.c0ab7a7f.chunk.js",
-    "main.js.map": "/CityDelicatessen/static/js/main.c0ab7a7f.chunk.js.map",
+    "main.js": "/CityDelicatessen/static/js/main.c4bd5c70.chunk.js",
+    "main.js.map": "/CityDelicatessen/static/js/main.c4bd5c70.chunk.js.map",
     "runtime-main.js": "/CityDelicatessen/static/js/runtime-main.e1f6204f.js",
     "runtime-main.js.map": "/CityDelicatessen/static/js/runtime-main.e1f6204f.js.map",
     "static/js/2.d91762b5.chunk.js": "/CityDelicatessen/static/js/2.d91762b5.chunk.js",
@@ -19,6 +19,6 @@
   "entrypoints": [
     "static/js/runtime-main.e1f6204f.js",
     "static/js/2.d91762b5.chunk.js",
-    "static/js/main.c0ab7a7f.chunk.js"
+    "static/js/main.c4bd5c70.chunk.js"
   ]
 }
