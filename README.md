@@ -5,3 +5,5 @@ Craving for pizza? This React based landing page makes the user crave for pizza 
 ![City Delicatessen](./assets/images/readme-img.png)
 
 **Deployment**
+
+- https://dmmf809.github.io/CityDelicatessen/
