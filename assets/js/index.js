@@ -1,9 +1,5 @@
 "use strict";
 
-const handleClick = () => {
-  alert("Coming soon!");
-};
-
 //Mobile Nav
 const toggleMenu = () => {
   const toggleMenu = document.querySelector(".nav-bars");
