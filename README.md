@@ -1,4 +1,4 @@
-Craving for pizza? This React based landing page makes the user crave for pizza for its eye-catching user interface.
+Craving for pizza? This website makes the user crave for pizza for its eye-catching user interface.
 
 - Author: Daenielle May Felipe
 
