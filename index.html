@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" href="pizzaicon.ico" />
+    <title>City Delicatessen</title>
+    <link rel="stylesheet" href="assets/css/main-styles.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <!-- Google Fonts -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Pattaya&family=Lobster&family=Playfair+Display&family=Merriweather&family=Merriweather+Sans&family=Oleo+Scrip&family=Roboto&family=Inter+Tight:wght@500&display=swap"
+      rel="stylesheet"
+    />
+    <!-- Font Awesome Icon Kit -->
+    <script
+      src="https://kit.fontawesome.com/d1de100852.js"
+      crossorigin="anonymous"
+    ></script>
+    <script src="/assets/js/index.js" defer></script>
+  </head>
+
+  <body>
+    <!-- Navigation -->
+    <header class="header-main">
+      <a class="header-title" href="#"> City Delicatessen </a>
+      <nav class="nav-container">
+        <ul class="nav-menu">
+          <li><a class="nav-link" href="#pizza">Pizza</a></li>
+          <li><a class="nav-link" href="#sandwiches">Sandwiches</a></li>
+          <li><a class="nav-link" href="#">About</a></li>
+          <li>
+            <a class="nav-link" href="#footer">Contact Us</a>
+          </li>
+        </ul>
+        <!-- Mobile menu -->
+        <div class="nav-bars" onclick="toggleMenu();">
+          <span class="bar"></span>
+          <span class="bar"></span>
+          <span class="bar"></span>
+        </div>
+      </nav>
+    </header>
+    <!-- Main Container -->
+    <main>
+      <!-- Hero Section -->
+      <section class="hero-section">
+        <div class="hero-container">
+          <div class="hero-items">
+            <h1>Fresh &amp; delicious pizza</h1>
+            <p>Ready in a slice!</p>
+            <a href="#pizza" class="hero-btn">Order Now</a>
+          </div>
+        </div>
+      </section>
+      <!-- Content -->
+      <section id="pizza">
+        <h1>Pizza</h1>
+        <div class="wrapper">
+          <div class="product-card">
+            <img
+              class="product-image"
+              src="./assets/images/cheesy.png"
+              alt="Cheesy Pizza"
+            />
+            <div class="product-info">
+              <h2 class="product-title">Super Cheesy</h2>
+              <p class="product-description">
+                White sauce, mozerrella, parmesan, gorgonzola, and stracchino
+                cheese
+              </p>
+              <p class="product-price">$11.95</p>
+            </div>
+          </div>
+          <div class="product-card">
+            <img
+              class="product-image"
+              src="./assets/images/veggie.jpg"
+              alt="Really Veggie Pizza"
+            />
+            <div class="product-info">
+              <h2 class="product-title">Really Veggie</h2>
+              <p class="product-description">
+                Whole wheat flour, tomato sauce, red pepper, mozzarella cheese,
+                olives, and zucchini
+              </p>
+              <p class="product-price">$13.45</p>
+            </div>
+          </div>
+          <div class="product-card">
+            <img
+              class="product-image"
+              src="./assets/images/meaty.png"
+              alt="Extra Meaty Pizza"
+            />
+            <div class="product-info">
+              <h2 class="product-title">Extra Meaty</h2>
+              <p class="product-description">
+                Thin crust pizza, topped off with two types of cheese, bacon,
+                ham, pepperoni, and hot sausage
+              </p>
+              <p class="product-price">$14.99</p>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section id="sandwiches">
+        <h1>Sandwiches</h1>
+        <div class="wrapper">
+          <div class="product-card">
+            <img
+              class="product-image"
+              src="./assets/images/grilled.jpg"
+              alt="Mixed Grill"
+            />
+            <div class="product-info">
+              <h2 class="product-title">Mixed Grill</h2>
+              <p class="product-description">
+                A pita sandwich of griddled spiced meat and onions
+              </p>
+              <p class="product-price">$9.50</p>
+            </div>
+          </div>
+          <div class="product-card">
+            <img
+              class="product-image"
+              src="./assets/images/pork.jpg"
+              alt="Grilled Pork"
+            />
+            <div class="product-info">
+              <h2 class="product-title">Grilled Pork</h2>
+              <p class="product-description">
+                Thinly sliced pork, topped with some garlic mayonnaise, red
+                onion, and arugula
+              </p>
+              <p class="product-price">$9.50</p>
+            </div>
+          </div>
+          <div class="product-card">
+            <img
+              class="product-image"
+              src="./assets/images/garden.jpg"
+              alt="All Vegetarian"
+            />
+            <div class="product-info">
+              <h2 class="product-title">All Vegetarian</h2>
+              <p class="product-description">
+                Spread with a classic hummus on a whole grain and fill with a
+                fresh mixture of vegetables
+              </p>
+              <p class="product-price">$10.50</p>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+    <footer id="footer">
+      <iframe
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2927.9166633503078!2d-86.1094826699118!3d42.790111612504575!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8819f2b03441ecbb%3A0x6093b3a39ec93a2b!2sCity%20Delicatessen!5e0!3m2!1sen!2sca!4v1664483234425!5m2!1sen!2sca"
+        width="400"
+        height="300"
+        style="border: 0"
+        allowfullscreen=""
+        loading="lazy"
+        referrerpolicy="no-referrer-when-downgrade"
+      ></iframe>
+      <p>&copy; 2022 Daenielle May</p>
+      <div class="social-links">
+        <a href="https://github.com/dmmf809" aria-label="Github"
+          ><i class="fa brands fa-github"></i
+        ></a>
+        <a
+          href="https://www.linkedin.com/in/daenielle-felipe/"
+          aria-label="LinkedIn"
+          ><i class="fa brands fa-linkedin"></i
+        ></a>
+      </div>
+    </footer>
+  </body>
+  <script src="assets/js/index.js"></script>
+</html>
